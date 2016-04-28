@@ -1,2 +1,2 @@
 # Wireless-Security-MS
-Course : WIreless Security and Networks (CNT6519)
+This Repositry contains all the files of Wireless security Course. 1. kali Linux. 2. Autopsy 2. Project and paper on Android Rooting
